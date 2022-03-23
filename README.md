@@ -2,4 +2,4 @@
 
 
 # React-Weather
-Responsive react site using data from OpenWeatherMap. 
+Responsive react site using data from OpenWeatherMap. Responsive CSS, horizontal scrolling using third party libraries, loading animations.
