@@ -1,6 +1,6 @@
 
 # React-Based Weather Site
-Responsive react site using data from OpenWeatherMap. Responsive CSS, horizontal scrolling using third party libraries, loading animations.
+React site using data from OpenWeatherMap. Responsive CSS, horizontal scrolling using third party libraries, loading animations.
 
 User can search for a city/zip code, city + state, and even city + state + country. Works for cities outside of the US. Centers map on searched city. 
 
